@@ -1,8 +1,4 @@
-# Moovy - React Web App 
-
-### Here's the URL: 
-https://moovy-rs.netlify.app/
-
+# MovieTS - React Web App 
 ### Technologies Used:
 
 - HTML, CSS
