@@ -1,7 +1,4 @@
-# Moovy - React Web App 
-
-### Here's the URL: 
-https://moovy-rs.netlify.app/
+# MovieTS
 
 ### Technologies Used:
 
@@ -12,5 +9,3 @@ https://moovy-rs.netlify.app/
 - Redux Toolkit
 - Axios
 - React Router Dom
-
-
